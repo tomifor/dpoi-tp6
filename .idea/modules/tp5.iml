@@ -265,5 +265,7 @@
     <orderEntry type="library" name="sbt: io.netty:netty-handler:4.0.41.Final:jar" level="project" />
     <orderEntry type="library" name="sbt: io.netty:netty-transport:4.0.41.Final:jar" level="project" />
     <orderEntry type="library" name="sbt: org.json:json:20180130:jar" level="project" />
+    <orderEntry type="library" name="R User Library" level="project" />
+    <orderEntry type="library" name="R Skeletons" level="application" />
   </component>
 </module>
